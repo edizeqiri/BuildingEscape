@@ -1,9 +1,9 @@
-C:\Users\edi54\Documents\GitHub\BuildingEscape\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\Definitions.Building_Escape.h
+C:\Users\edi54\Documents\GitHub\BuildingEscape\BuildingEscape\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\Definitions.Building_Escape.h
 F:\Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 F:\Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\edi54\Documents\GitHub\BuildingEscape\Building_Escape\Source\Building_Escape/Building_EscapeGameModeBase.h
+C:\Users\edi54\Documents\GitHub\BuildingEscape\BuildingEscape\Building_Escape\Source\Building_Escape/Building_EscapeGameModeBase.h
 F:\Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
 F:\Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
 F:\Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
 F:\Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-C:\Users\edi54\Documents\GitHub\BuildingEscape\Building_Escape\Intermediate\Build\Win64\UE4Editor\Inc\Building_Escape\Building_EscapeGameModeBase.generated.h
+C:\Users\edi54\Documents\GitHub\BuildingEscape\BuildingEscape\Building_Escape\Intermediate\Build\Win64\UE4Editor\Inc\Building_Escape\Building_EscapeGameModeBase.generated.h
